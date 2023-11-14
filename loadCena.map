@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map:map xmlns:map="http://www.indy.com/v2/map" id="_svvqkIIsEe6QQ6l8fm7y2Q" internalVersion="8" tech="resource.tech#_waYSMH8VEd2__Mzb_dB76A?fileId=_waYSMH8VEd2__Mzb_dB76A$type=tech$name=flow?">
+  <datastore id="_29w9wIIsEe6QQ6l8fm7y2Q" alias="GET" dataset="_4SSbgII-Ee6QQ6l8fm7y2Q" ref="resource.md#_7aCxQYIrEe6QQ6l8fm7y2Q?fileId=_2fL9oIInEe6QQ6l8fm7y2Q$type=md?" subExpression="[A]">
+    <field id="_2912QYIsEe6QQ6l8fm7y2Q" name="Content-Type" parent="_291PMYIsEe6QQ6l8fm7y2Q" ref="resource.md#_IzsTA4IsEe6QQ6l8fm7y2Q?fileId=_2fL9oIInEe6QQ6l8fm7y2Q$type=md$name=Content-Type?">
+      <expression id="_bwydkoLFEe6ueKymzODcGA" setDescriptorRef="_bwydkYLFEe6ueKymzODcGA"/>
+    </field>
+    <field id="_2912QIIsEe6QQ6l8fm7y2Q" name="Date" parent="_291PMYIsEe6QQ6l8fm7y2Q" ref="resource.md#_IzsTAoIsEe6QQ6l8fm7y2Q?fileId=_2fL9oIInEe6QQ6l8fm7y2Q$type=md$name=Date?">
+      <expression id="_bwydk4LFEe6ueKymzODcGA" setDescriptorRef="_bwydkYLFEe6ueKymzODcGA"/>
+    </field>
+    <field id="_2912RoIsEe6QQ6l8fm7y2Q" fullAlias="GET/Responses/200/XML/ArrayOfCenaZlota/CenaZlota/Cena" name="Cena" parent="_2912RIIsEe6QQ6l8fm7y2Q" ref="resource.md#_IzsTGIIsEe6QQ6l8fm7y2Q?fileId=_2fL9oIInEe6QQ6l8fm7y2Q$type=md$name=Cena?">
+      <expression id="_bwydlILFEe6ueKymzODcGA" setDescriptorRef="_bwydkYLFEe6ueKymzODcGA"/>
+    </field>
+    <field id="_291PNoIsEe6QQ6l8fm7y2Q" name="Vary" parent="_291PMYIsEe6QQ6l8fm7y2Q" ref="resource.md#_IzsS_oIsEe6QQ6l8fm7y2Q?fileId=_2fL9oIInEe6QQ6l8fm7y2Q$type=md$name=Vary?">
+      <expression id="_bwydlYLFEe6ueKymzODcGA" setDescriptorRef="_bwydkYLFEe6ueKymzODcGA"/>
+    </field>
+    <field id="_290oIYIsEe6QQ6l8fm7y2Q" enable="true" expand="true" insert="true" name="GET" ref="resource.md#_7aCxQYIrEe6QQ6l8fm7y2Q?fileId=_2fL9oIInEe6QQ6l8fm7y2Q$type=md?" update="true" updateKey="true">
+      <expression id="_bwydkILFEe6ueKymzODcGA" setDescriptorRef="_bwydkYLFEe6ueKymzODcGA">
+        <expression>123456</expression>
+      </expression>
+    </field>
+    <field id="_291POYIsEe6QQ6l8fm7y2Q" name="Expires" parent="_291PMYIsEe6QQ6l8fm7y2Q" ref="resource.md#_IzsTAYIsEe6QQ6l8fm7y2Q?fileId=_2fL9oIInEe6QQ6l8fm7y2Q$type=md$name=Expires?">
+      <expression id="_bwydloLFEe6ueKymzODcGA" setDescriptorRef="_bwydkYLFEe6ueKymzODcGA"/>
+    </field>
+    <field id="_2912Q4IsEe6QQ6l8fm7y2Q" expand="true" name="ArrayOfCenaZlota" parent="_2912QoIsEe6QQ6l8fm7y2Q" ref="resource.md#_IzsTCYIsEe6QQ6l8fm7y2Q?fileId=_2fL9oIInEe6QQ6l8fm7y2Q$type=md$name=ArrayOfCenaZlota?">
+      <expression id="_bwydl4LFEe6ueKymzODcGA" setDescriptorRef="_bwydkYLFEe6ueKymzODcGA"/>
+    </field>
+    <field id="_2912QoIsEe6QQ6l8fm7y2Q" expand="true" name="XML" parent="_291PMIIsEe6QQ6l8fm7y2Q" ref="resource.md#_IzsTBoIsEe6QQ6l8fm7y2Q?fileId=_2fL9oIInEe6QQ6l8fm7y2Q$type=md?">
+      <expression id="_bwydmILFEe6ueKymzODcGA" setDescriptorRef="_bwydkYLFEe6ueKymzODcGA"/>
+    </field>
+    <field id="_291PM4IsEe6QQ6l8fm7y2Q" name="Transfer-Encoding" parent="_291PMYIsEe6QQ6l8fm7y2Q" ref="resource.md#_IzsS-4IsEe6QQ6l8fm7y2Q?fileId=_2fL9oIInEe6QQ6l8fm7y2Q$type=md$name=Transfer-Encoding?">
+      <expression id="_bwydmYLFEe6ueKymzODcGA" setDescriptorRef="_bwydkYLFEe6ueKymzODcGA"/>
+    </field>
+    <field id="_291PNYIsEe6QQ6l8fm7y2Q" name="ETag" parent="_291PMYIsEe6QQ6l8fm7y2Q" ref="resource.md#_IzsS_YIsEe6QQ6l8fm7y2Q?fileId=_2fL9oIInEe6QQ6l8fm7y2Q$type=md$name=ETag?">
+      <expression id="_bwydmoLFEe6ueKymzODcGA" setDescriptorRef="_bwydkYLFEe6ueKymzODcGA"/>
+    </field>
+    <field id="_2912RYIsEe6QQ6l8fm7y2Q" fullAlias="GET/Responses/200/XML/ArrayOfCenaZlota/CenaZlota/Data" name="Data" parent="_2912RIIsEe6QQ6l8fm7y2Q" ref="resource.md#_IzsTE4IsEe6QQ6l8fm7y2Q?fileId=_2fL9oIInEe6QQ6l8fm7y2Q$type=md$name=Data?">
+      <expression id="_bwydm4LFEe6ueKymzODcGA" setDescriptorRef="_bwydkYLFEe6ueKymzODcGA"/>
+    </field>
+    <field id="_291PMoIsEe6QQ6l8fm7y2Q" name="_ee3la5eizeiY4Eix" parent="_291PMYIsEe6QQ6l8fm7y2Q" ref="resource.md#_IzsTBIIsEe6QQ6l8fm7y2Q?fileId=_2fL9oIInEe6QQ6l8fm7y2Q$type=md$name=_ee3la5eizeiY4Eix?">
+      <expression id="_bwydnILFEe6ueKymzODcGA" setDescriptorRef="_bwydkYLFEe6ueKymzODcGA"/>
+    </field>
+    <field id="_290oIoIsEe6QQ6l8fm7y2Q" expand="true" name="Responses" parent="_290oIYIsEe6QQ6l8fm7y2Q" ref="resource.md#_IzsS94IsEe6QQ6l8fm7y2Q?fileId=_2fL9oIInEe6QQ6l8fm7y2Q$type=md?">
+      <expression id="_bwydnYLFEe6ueKymzODcGA" setDescriptorRef="_bwydkYLFEe6ueKymzODcGA"/>
+    </field>
+    <field id="_291PN4IsEe6QQ6l8fm7y2Q" name="Set-Cookie" parent="_291PMYIsEe6QQ6l8fm7y2Q" ref="resource.md#_IzsS_4IsEe6QQ6l8fm7y2Q?fileId=_2fL9oIInEe6QQ6l8fm7y2Q$type=md$name=Set-Cookie?">
+      <expression id="_bwydnoLFEe6ueKymzODcGA" setDescriptorRef="_bwydkYLFEe6ueKymzODcGA"/>
+    </field>
+    <field id="_291PNIIsEe6QQ6l8fm7y2Q" name="Cache-Control" parent="_291PMYIsEe6QQ6l8fm7y2Q" ref="resource.md#_IzsS_IIsEe6QQ6l8fm7y2Q?fileId=_2fL9oIInEe6QQ6l8fm7y2Q$type=md$name=Cache-Control?">
+      <expression id="_bwydn4LFEe6ueKymzODcGA" setDescriptorRef="_bwydkYLFEe6ueKymzODcGA"/>
+    </field>
+    <field id="_291POIIsEe6QQ6l8fm7y2Q" name="Pragma" parent="_291PMYIsEe6QQ6l8fm7y2Q" ref="resource.md#_IzsTAIIsEe6QQ6l8fm7y2Q?fileId=_2fL9oIInEe6QQ6l8fm7y2Q$type=md$name=Pragma?">
+      <expression id="_bwydoILFEe6ueKymzODcGA" setDescriptorRef="_bwydkYLFEe6ueKymzODcGA"/>
+    </field>
+    <field id="_291PMIIsEe6QQ6l8fm7y2Q" expand="true" name="200" parent="_290oIoIsEe6QQ6l8fm7y2Q" ref="resource.md#_IzsS-IIsEe6QQ6l8fm7y2Q?fileId=_2fL9oIInEe6QQ6l8fm7y2Q$type=md?">
+      <expression id="_bwydoYLFEe6ueKymzODcGA" setDescriptorRef="_bwydkYLFEe6ueKymzODcGA"/>
+    </field>
+    <field id="_2912RIIsEe6QQ6l8fm7y2Q" expand="true" name="CenaZlota" parent="_2912Q4IsEe6QQ6l8fm7y2Q" ref="resource.md#_IzsTDYIsEe6QQ6l8fm7y2Q?fileId=_2fL9oIInEe6QQ6l8fm7y2Q$type=md$name=CenaZlota?">
+      <expression id="_bwydooLFEe6ueKymzODcGA" setDescriptorRef="_bwydkYLFEe6ueKymzODcGA"/>
+    </field>
+    <field id="_291PMYIsEe6QQ6l8fm7y2Q" name="Headers" parent="_291PMIIsEe6QQ6l8fm7y2Q" ref="resource.md#_IzsS-oIsEe6QQ6l8fm7y2Q?fileId=_2fL9oIInEe6QQ6l8fm7y2Q$type=md?">
+      <expression id="_bwydo4LFEe6ueKymzODcGA" setDescriptorRef="_bwydkYLFEe6ueKymzODcGA"/>
+    </field>
+    <setDescriptor id="_bwydkYLFEe6ueKymzODcGA" label="A"/>
+  </datastore>
+  <datastore id="_IwVTkIJFEe6QQ6l8fm7y2Q" alias="SELECT_RANDOM" dataset="_IwVTlIJFEe6QQ6l8fm7y2Q" ref="resource.md#_3Se6cII1Ee6QQ6l8fm7y2Q?fileId=_fXn9QIIIEe6jEaGUpux4CA$type=md$name=SELECT%20RANDOM?">
+    <field id="_IwVTkoJFEe6QQ6l8fm7y2Q" name="random" ref="resource.md#_I_qt4II2Ee6QQ6l8fm7y2Q?fileId=_fXn9QIIIEe6jEaGUpux4CA$type=md$name=random?"/>
+  </datastore>
+  <datastore id="_PJG-EIJGEe6QQ6l8fm7y2Q" alias="cenyzlota" dataset="_PJRWIIJGEe6QQ6l8fm7y2Q" ref="resource.md#_GVUNoYJGEe6QQ6l8fm7y2Q?fileId=_fXn9QIIIEe6jEaGUpux4CA$type=md$name=cenyzlota?" subExpression="[A]">
+    <field id="_PJOS0oJGEe6QQ6l8fm7y2Q" enable="true" insert="true" name="cena_value" ref="resource.md#_GVUNrYJGEe6QQ6l8fm7y2Q?fileId=_fXn9QIIIEe6jEaGUpux4CA$type=md$name=cena_value?" update="true">
+      <expression id="_P0e2UYJGEe6QQ6l8fm7y2Q" setDescriptorRef="_P0e2UIJGEe6QQ6l8fm7y2Q">
+        <expression>GET.GET/Responses/200/XML/ArrayOfCenaZlota/CenaZlota/Cena</expression>
+      </expression>
+    </field>
+    <field id="_PJOS0YJGEe6QQ6l8fm7y2Q" enable="true" insert="true" name="cena_date" ref="resource.md#_GVUNpIJGEe6QQ6l8fm7y2Q?fileId=_fXn9QIIIEe6jEaGUpux4CA$type=md$name=cena_date?" update="true" updateKey="true">
+      <expression id="_P0e2UoJGEe6QQ6l8fm7y2Q" setDescriptorRef="_P0e2UIJGEe6QQ6l8fm7y2Q">
+        <expression>GET.GET/Responses/200/XML/ArrayOfCenaZlota/CenaZlota/Data</expression>
+      </expression>
+    </field>
+    <field id="_PJOS04JGEe6QQ6l8fm7y2Q" name="curr_date" ref="resource.md#_GVUNtoJGEe6QQ6l8fm7y2Q?fileId=_fXn9QIIIEe6jEaGUpux4CA$type=md$name=curr_date?">
+      <expression id="_P0e2U4JGEe6QQ6l8fm7y2Q" location="TRG" setDescriptorRef="_P0e2UIJGEe6QQ6l8fm7y2Q">
+        <expression></expression>
+      </expression>
+    </field>
+    <constraint id="_PJOS1IJGEe6QQ6l8fm7y2Q" name="pk_date" ref="resource.md#_GVUNv4JGEe6QQ6l8fm7y2Q?fileId=_fXn9QIIIEe6jEaGUpux4CA$type=md$name=pk_date?" reject="true"/>
+    <setDescriptor id="_P0e2UIJGEe6QQ6l8fm7y2Q" label="A"/>
+  </datastore>
+  <template id="_P0k88IJGEe6QQ6l8fm7y2Q" name="I_cenyzlota" process="resource.proc#_dQ2dRp4SEd6bQIkgWyxFQQ?fileId=_dQ2dRp4SEd6bQIkgWyxFQQ$type=proc$name=INTEGRATION%20PostgreSql?" targetId="_PJG-EIJGEe6QQ6l8fm7y2Q"/>
+  <template id="_P0wjIIJGEe6QQ6l8fm7y2Q" name="L1_cenyzlota" process="resource.proc#_eNVMMrdDEd6wPMNq-9tkHw?fileId=_eNVMMrdDEd6wPMNq-9tkHw$type=proc$name=Load%20Xml%20to%20Rdbms?" sourceId="_29w9wIIsEe6QQ6l8fm7y2Q" targetId="_PJG-EIJGEe6QQ6l8fm7y2Q"/>
+  <template id="_bw8OkILFEe6ueKymzODcGA" name="I_GET" process="resource.proc#_4fRz0MvFEeiRAvOrIMI3zg?fileId=_4fRz0MvFEeiRAvOrIMI3zg$type=proc$name=INTEGRATION%20Rdbms%20to%20Http.tp?" targetId="_29w9wIIsEe6QQ6l8fm7y2Q"/>
+  <dataSet id="_4SSbgII-Ee6QQ6l8fm7y2Q">
+    <container>_29w9wIIsEe6QQ6l8fm7y2Q</container>
+  </dataSet>
+  <dataSet id="_IwVTlIJFEe6QQ6l8fm7y2Q">
+    <container>_IwVTkIJFEe6QQ6l8fm7y2Q</container>
+  </dataSet>
+  <dataSet id="_PJRWIIJGEe6QQ6l8fm7y2Q">
+    <container>_PJG-EIJGEe6QQ6l8fm7y2Q</container>
+  </dataSet>
+  <hint>
+    <usedField>#_2912RoIsEe6QQ6l8fm7y2Q</usedField>
+    <usedField>#_2912RYIsEe6QQ6l8fm7y2Q</usedField>
+  </hint>
+  <diagram><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:map="http://www.indy.com/v2/map" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.1/notation" xsi:schemaLocation="http://www.eclipse.org/gmf/runtime/1.0.1/notation " xmi:id="_swi70IIsEe6QQ6l8fm7y2Q" type="Map" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_IwediIJFEe6QQ6l8fm7y2Q" type="2004" fontName="Segoe UI">
+    <children xmi:type="notation:DecorationNode" xmi:id="_IwedioJFEe6QQ6l8fm7y2Q" type="5005"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_Iwedi4JFEe6QQ6l8fm7y2Q" type="5007"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_IwedjIJFEe6QQ6l8fm7y2Q" type="7003"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_IwedjYJFEe6QQ6l8fm7y2Q" type="7009"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_IwedjoJFEe6QQ6l8fm7y2Q" type="7004">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_Iwedj4JFEe6QQ6l8fm7y2Q"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_IwedkIJFEe6QQ6l8fm7y2Q"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_IwedkYJFEe6QQ6l8fm7y2Q" type="5009">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_IwedkoJFEe6QQ6l8fm7y2Q"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_Iwedk4JFEe6QQ6l8fm7y2Q" type="7005">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_IwedlIJFEe6QQ6l8fm7y2Q"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_IwedlYJFEe6QQ6l8fm7y2Q"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_IwedloJFEe6QQ6l8fm7y2Q" type="7007"/>
+    <element xmi:type="map:Datastore" href="resource.map#_IwVTkIJFEe6QQ6l8fm7y2Q?fileId=_svvqkIIsEe6QQ6l8fm7y2Q$type=map?"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_IwediYJFEe6QQ6l8fm7y2Q" x="49" y="103"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_295goIIsEe6QQ6l8fm7y2Q" type="2004" fontName="Segoe UI">
+    <children xmi:type="notation:DecorationNode" xmi:id="_296HsIIsEe6QQ6l8fm7y2Q" type="5005"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_296HsYIsEe6QQ6l8fm7y2Q" type="5007"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_296HsoIsEe6QQ6l8fm7y2Q" type="7003"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_296Hs4IsEe6QQ6l8fm7y2Q" type="7009"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_296HtIIsEe6QQ6l8fm7y2Q" type="7004">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_296HtYIsEe6QQ6l8fm7y2Q"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_296HtoIsEe6QQ6l8fm7y2Q"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_296Ht4IsEe6QQ6l8fm7y2Q" type="5009">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_296HuIIsEe6QQ6l8fm7y2Q"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_296HuYIsEe6QQ6l8fm7y2Q" type="7005">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_296HuoIsEe6QQ6l8fm7y2Q"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_296Hu4IsEe6QQ6l8fm7y2Q"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_296HvIIsEe6QQ6l8fm7y2Q" type="7007"/>
+    <element xmi:type="map:Datastore" href="resource.map#_29w9wIIsEe6QQ6l8fm7y2Q?fileId=_svvqkIIsEe6QQ6l8fm7y2Q$type=map?"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_295goYIsEe6QQ6l8fm7y2Q" x="296" y="53"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_PJXcwIJGEe6QQ6l8fm7y2Q" type="2004" fontName="Segoe UI">
+    <children xmi:type="notation:DecorationNode" xmi:id="_PJXcwoJGEe6QQ6l8fm7y2Q" type="5005"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_PJXcw4JGEe6QQ6l8fm7y2Q" type="5007"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_PJXcxIJGEe6QQ6l8fm7y2Q" type="7003"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_PJXcxYJGEe6QQ6l8fm7y2Q" type="7009"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_PJXcxoJGEe6QQ6l8fm7y2Q" type="7004">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_PJXcx4JGEe6QQ6l8fm7y2Q"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_PJXcyIJGEe6QQ6l8fm7y2Q"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_PJXcyYJGEe6QQ6l8fm7y2Q" type="5009">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_PJXcyoJGEe6QQ6l8fm7y2Q"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_PJXcy4JGEe6QQ6l8fm7y2Q" type="7005">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_PJXczIJGEe6QQ6l8fm7y2Q"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_PJXczYJGEe6QQ6l8fm7y2Q"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_PJXczoJGEe6QQ6l8fm7y2Q" type="7007"/>
+    <element xmi:type="map:Datastore" href="resource.map#_PJG-EIJGEe6QQ6l8fm7y2Q?fileId=_svvqkIIsEe6QQ6l8fm7y2Q$type=map?"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PJXcwYJGEe6QQ6l8fm7y2Q" x="664" y="99"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_swi70YIsEe6QQ6l8fm7y2Q"/>
+  <element xmi:type="map:Map" href="resource.map#_svvqkIIsEe6QQ6l8fm7y2Q?fileId=_svvqkIIsEe6QQ6l8fm7y2Q$type=map$name=loadCena?"/>
+  <edges xmi:type="notation:Edge" xmi:id="_P0rDkIJGEe6QQ6l8fm7y2Q" type="targetLink" source="_PJXcwIJGEe6QQ6l8fm7y2Q" target="_295goIIsEe6QQ6l8fm7y2Q">
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_P0rDkYJGEe6QQ6l8fm7y2Q" points="[-74, 2, 361, -9]$[-293, 7, 142, -4]"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_P0rDlIJGEe6QQ6l8fm7y2Q" type="targetDataSetLink" source="_PJXcwIJGEe6QQ6l8fm7y2Q" target="_PJXcwIJGEe6QQ6l8fm7y2Q">
+    <element xmi:type="map:DataSet" href="resource.map#_4SSbgII-Ee6QQ6l8fm7y2Q?fileId=_svvqkIIsEe6QQ6l8fm7y2Q$type=map?"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_P0rDlYJGEe6QQ6l8fm7y2Q" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_P0rDloJGEe6QQ6l8fm7y2Q" type="targetSetLink" source="_PJXcwIJGEe6QQ6l8fm7y2Q" target="_PJXcwIJGEe6QQ6l8fm7y2Q">
+    <element xmi:type="map:SetDescriptor" href="resource.map#_P0e2UIJGEe6QQ6l8fm7y2Q?fileId=_svvqkIIsEe6QQ6l8fm7y2Q$type=map?"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_P0rDl4JGEe6QQ6l8fm7y2Q" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+</notation:Diagram>
+]]></diagram>
+</map:map>
