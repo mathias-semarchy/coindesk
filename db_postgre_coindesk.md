@@ -174,7 +174,7 @@
       </node>
     </node>
   </node>
-  <node defType="com.stambia.rdbms.queryFolder" id="_wLBIgYI1Ee6QQ6l8fm7y2Q" name="Query_folder">
+  <node defType="com.stambia.rdbms.queryFolder" id="_wLBIgYI1Ee6QQ6l8fm7y2Q" name="query_folder">
     <node defType="com.stambia.rdbms.query" id="_3Se6cII1Ee6QQ6l8fm7y2Q" name="SELECT RANDOM">
       <attribute defType="com.stambia.rdbms.query.expression" id="_B8p-III2Ee6QQ6l8fm7y2Q" value="select random()"/>
       <node defType="com.stambia.rdbms.column" id="_I_qt4II2Ee6QQ6l8fm7y2Q" name="random" position="1">
