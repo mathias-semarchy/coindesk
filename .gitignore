@@ -1,3 +1,4 @@
 .project
 local_runtime_postgre.md
 .settings\org.eclipse.core.resources.prefs
+.settings/org.eclipse.core.resources.prefs
