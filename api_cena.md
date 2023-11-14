@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<md:node xmlns:md="http://www.stambia.com/md" defType="com.stambia.http.rest" id="_2fL9oIInEe6QQ6l8fm7y2Q" name="goldrest" md:ref="resource.tech#UUID_TECH_HTTPREST?fileId=UUID_TECH_HTTPREST$type=tech$name=HttpRest?" internalVersion="v2.0.0">
+<md:node xmlns:md="http://www.stambia.com/md" defType="com.stambia.http.rest" id="_2fL9oIInEe6QQ6l8fm7y2Q" name="cenaRest" md:ref="resource.tech#UUID_TECH_HTTPREST?fileId=UUID_TECH_HTTPREST$type=tech$name=HttpRest?" internalVersion="v2.0.0">
   <attribute defType="com.stambia.http.rest.module" id="_2fTSYIInEe6QQ6l8fm7y2Q" value="HttpRest"/>
   <attribute defType="com.stambia.http.rest.url" id="_6PltIIInEe6QQ6l8fm7y2Q" value="https://api.nbp.pl/api/"/>
   <node defType="com.stambia.http.rest.path" id="_LDjZl4IoEe6QQ6l8fm7y2Q">
